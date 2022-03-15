@@ -16,13 +16,9 @@ body {
 ul,
 ol {
     list-style-type: none;
-    display: flex;
     padding: 0;
 }
 
-ol {
-    flex-direction: column;
-}
 
 ul {  
     justify-content: space-around;
