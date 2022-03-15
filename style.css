@@ -1,3 +1,26 @@
-h1 {
-    font-family: sans-serif;
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-family: sans-serif
+}
+.about {
+    justify-content: center;
+}
+ul,
+ol {
+    list-style-type: none;
+    display: flex;
+}
+
+ol {
+    flex-direction: column;
+}
+
+ul {
+    
+    justify-content: space-around;
+}
+
+img {
+    border-radius: 20px;
 }
