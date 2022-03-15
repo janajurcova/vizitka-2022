@@ -22,6 +22,8 @@ ol {
 
 ul {  
     justify-content: space-around;
+    display: flex;
+    direction: row;
 }
 
 img {
